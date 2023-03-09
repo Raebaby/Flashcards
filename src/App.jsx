@@ -98,7 +98,7 @@ const next = () => {
               {pause}
                 <br/>
                 <br/>
-              {side}git 
+              {side}
             </div>
             </div>
           <div>
